@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hello, Worker",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-04T07:46:52.615610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello,Worker",
+      "artist": "ぐるたみん",
+      "has_synced": true,
+      "path": "select/01_Hello,Worker_ぐるたみん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hello,Worker",
+      "artist": "スタンガン",
+      "has_synced": true,
+      "path": "select/02_Hello,Worker_スタンガン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "JubyPhonic",
+      "has_synced": false,
+      "path": "select/03_Hello,_Worker_JubyPhonic.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hello, Worker (English Cover)",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/04_Hello,_Worker_(English_Cover)_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "Kei",
+      "has_synced": false,
+      "path": "select/05_Hello,_Worker_Kei.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello, Worker (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/06_Hello,_Worker_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/07_Hello,_Worker_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "KEI feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/08_Hello,_Worker_KEI_feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "hello worker",
+      "artist": "kei feat",
+      "has_synced": true,
+      "path": "select/09_hello_worker_kei_feat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "KEI feat. Megurine Luka",
+      "has_synced": false,
+      "path": "select/10_Hello,_Worker_KEI_feat._Megurine_Luka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "Hayashi, Kei feat. Megurine Luka",
+      "has_synced": true,
+      "path": "select/11_Hello,_Worker_Hayashi,_Kei_feat._Megurine_Luka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "KEI & 巡音ルカ",
+      "has_synced": true,
+      "path": "select/12_Hello,_Worker_KEI_&_巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello, Worker (Hatsune Miku Magical Mirai 2014 Live) [& Megurine Luka]",
+      "artist": "KEI",
+      "has_synced": false,
+      "path": "select/13_Hello,_Worker_(Hatsune_Miku_Magical_Mirai_2014_Live)_[&_Megurine_Luka]_KEI.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ",
+      "has_synced": true,
+      "path": "select/14_Hello,_Worker_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/15_Hello,_Worker_ぐるたみん.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hello, Worker -初音ミク「マジカルミライ 2014」Live-",
+      "artist": "Kei",
+      "has_synced": false,
+      "path": "select/16_Hello,_Worker_-初音ミク「マジカルミライ_2014」Live-_Kei.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hello, Worker (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/17_Hello,_Worker_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hello, Worker",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/18_Hello,_Worker_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hello, Worker (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/19_Hello,_Worker_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo_need.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello, Worker (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_Hello,_Worker_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo_need.txt"
+    }
+  ]
+}
